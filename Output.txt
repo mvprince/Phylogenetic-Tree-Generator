@@ -1,0 +1,8 @@
+Merging clusters coli_NP_4 and subtilis
+Merging clusters human_NP and yeast_CAA
+Merging clusters methanosa and haloarcul
+Merging clusters coli_NP_4-subtilis and human_NP-yeast_CAA
+Last clusters: methanosa-haloarcul and coli_NP_4-subtilis-human_NP-yeast_CAA
+
+Newick format:
+((methanosa:0.19289762499999985,haloarcul:0.18120437500000008),((coli_NP_4:0.16067537499999995,subtilis:0.12198162499999998):0.657636375,(human_NP:0.08235350000000002,yeast_CAA:0.08189849999999993):0.27108212499999995))
